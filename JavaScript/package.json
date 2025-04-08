@@ -1,0 +1,13 @@
+{
+  "name": "en_chess_engine_1.0",
+  "version": "1.0.0",
+  "description": "My first chess engine with c, and shown in local host 3000 using JavaScript.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Arguello",
+  "license": "ISC"
+}
